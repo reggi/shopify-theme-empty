@@ -1,1 +1,0 @@
-The minimum files and file contents for a shopify theme.
